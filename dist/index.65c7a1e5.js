@@ -64,7 +64,7 @@ let step = ()=>{
             html.scrollTo(0, 99999);
             step();
         }
-    }, 10);
+    }, 300);
 };
 step();
 
