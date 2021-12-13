@@ -1,0 +1,2 @@
+*{margin:0;padding:0}*,:after,:before{box-sizing:border-box}#demo{word-wrap:break-all}#div1{left:50%;position:fixed;top:20px;transform:translate(-50%)}#div1:after,#div1:before{content:"";display:block;position:absolute}@media (max-width:500px){#demo{overflow:hidden}#demo,#divWrapper{height:50vh}#div1{position:relative;right:0;top:0}}
+/*# sourceMappingURL=index.e003b1ab.css.map */
